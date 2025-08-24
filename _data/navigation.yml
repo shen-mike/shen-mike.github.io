@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.com/citations?user=-9_NNY0AAAAJ&hl=en&oi=ao"  # /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: "https://shen-mike.github.io/files/CV_ZhiyingShen.pdf" #/cv/
     
   # - title: "CV"
   #   url: /cv-json/
