@@ -15,7 +15,7 @@ redirect_from:
 
 <hr>
 
-<div style="background-color: #f5f5fc; padding: 10px;">
+<div style="background-color: #f5f5fc; padding: 5px;">
   <h1>Recent Updates</h1>
     <p>I presented my very first flash talk (!) at the 2025 Institute for Human Neuroscience Summer Symposium!</p>
 
@@ -24,7 +24,7 @@ redirect_from:
 
 <hr>
 
-<div style="padding: 5px;">
+<div style="padding: 10px;">
   <h1>New Publication</h1>
     <p>My 1st first-author paper is out now! <a href="https://doi.org/10.1093/cercor/bhaf178" style="color:#8400b0;">Alterations in cortical 40-Hz auditory steady-state response dynamics in children with mild-to-severe hearing loss are related to hearing aid use</a></p>
 
