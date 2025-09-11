@@ -8,21 +8,21 @@ redirect_from:
 ---
 <div style="padding: 5px;">
   <h1>Hello!</h1>
-    <p>I am a second year graduate student in the <a href="https://www.creighton.edu/medicine/departments/pharmacology-neuroscience" style="color:#34373a;">Pharmacology and Neuroscience PhD program</a> at Creighton University in Omaha, Nebraska, where I work primarily at the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>, under the direction of <a href="https://www.instituteforhumanneuroscience.org/elizabeth-heinrichs-graham" style="color:#34373a;">Dr. Elizabeth Heinrichs-Graham</a>, as part of the <a href="https://www.instituteforhumanneuroscience.org/" style="color:#34373a;">Institute for Human Neuroscience</a> at <a href="https://www.boystownresearch.org/" style="color:#34373a;">Boys Town National Research Hospital</a>.</p>
+    <p>I am a second year graduate student in the <a href="https://www.creighton.edu/medicine/departments/pharmacology-neuroscience" style="color:#0062b1;">Pharmacology and Neuroscience PhD program</a> at Creighton University in Omaha, Nebraska, where I work primarily at the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>, under the direction of Dr. Elizabeth Heinrichs-Graham, as part of the <a href="https://www.instituteforhumanneuroscience.org/" style="color:#34373a;">Institute for Human Neuroscience</a> at Boys Town National Research Hospital.</p>
 
     <p>As I progress through my graduate school career, more updates will be posted here!</p>
 </div>
 
-<hr>
 
-<div style="background-color: #f7faff; padding: 5px;">
+
+<div style="background-color: #ccccff; padding: 5px;">
   <h1>Recent Updates</h1>
     <p>I presented my very first flash talk (!) at the 2025 Institute for Human Neuroscience Summer Symposium!</p>
 
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The 3rd flash talk is <a href="https://twitter.com/Creighton?ref_src=twsrc%5Etfw">@Creighton</a> PhD student in the <a href="https://twitter.com/hashtag/CASILab?src=hash&amp;ref_src=twsrc%5Etfw">#CASILab</a>, Zhiying (Mike) Shen. His presentation is titled, &quot;Neural Dynamics Underlying the Development of Semantic Processing Support Language-Specific and Domain-General Cognition.&quot;<a href="https://twitter.com/hashtag/IHNSummerSymposium?src=hash&amp;ref_src=twsrc%5Etfw">#IHNSummerSymposium</a> <a href="https://twitter.com/hashtag/Neuroscience?src=hash&amp;ref_src=twsrc%5Etfw">#Neuroscience</a> <a href="https://twitter.com/hashtag/CASILab?src=hash&amp;ref_src=twsrc%5Etfw">#CASILab</a> <a href="https://t.co/i0nyNTUiyW">pic.twitter.com/i0nyNTUiyW</a></p>&mdash; Institute for Human Neuroscience (@BoysTown_IHN) <a href="https://twitter.com/BoysTown_IHN/status/1958911041435259295?ref_src=twsrc%5Etfw">August 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<hr>
+
 
 <div style="padding: 5px;">
   <h1>New Publication</h1>
