@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-<div style="background-color: #ccccff; padding: 5px;">
+<div style="background-color: #ededfc; padding: 5px;">
   <h1>Recent Updates</h1>
     <p>I presented my very first flash talk (!) at the 2025 Institute for Human Neuroscience Summer Symposium!</p>
 
