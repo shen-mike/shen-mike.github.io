@@ -14,7 +14,7 @@ I am a second year graduate student in the [Pharmacology and Neuroscience PhD pr
 As I progress through my graduate school career, more updates will be posted here!
 
 <hr>
-<div style="background-color: #f7faff; padding: 20px;">
+<div style="background-color: #f7faff;">
   <h1>Recent Updates</h1>
     <p>I presented my very first flash talk (!) at the 2025 Institute for Human Neuroscience Summer Symposium!</p>
 
