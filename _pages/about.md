@@ -32,7 +32,7 @@ redirect_from:
 <hr>
 
 <div style="padding: 5px;">
-  <h1>Publication</h1>
+  <h1>Publications</h1>
   <details>
     <summary>Altered 40-Hz auditory steady-state response dynamics in children with hearing loss (<i>Cerebral Cortex</i>, 2025) <a href="https://doi.org/10.1093/cercor/bhaf178" target="_blank" style="color:#8400b0;">[link to paper]</a></summary>
 
