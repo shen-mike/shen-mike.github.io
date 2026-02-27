@@ -17,7 +17,7 @@ redirect_from:
 
 <div style="padding: 5px;">
   <h1>Upcoming Conference Presentation 📣</h1>
-    <p>Catch me present a <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">poster (B56)</a> on semantic processing in children with mild-to-severe hearing loss at the upcoming <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">Cognitive Neuroscience Society 2026 conference!</a> in Vancouver, Canada on March 8th!</p>
+    <p>Catch me present a <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">poster (B56)</a> on semantic processing in children with mild-to-severe hearing loss at the upcoming <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">Cognitive Neuroscience Society 2026 conference</a> in Vancouver, Canada on March 8th!</p>
 
     <p>Three of my colleagues have also brought their amazing projects to CNS as well! Check them out at <a href="https://www.cogneurosociety.org/poster/?id=7233" target="_blank">B6: visual attention (Clare)</a>, <a href="https://www.cogneurosociety.org/poster/?id=7232" target="_blank">B40: spatial working memory (Grace)</a>, and <a href="https://www.cogneurosociety.org/poster/?id=7304" target="_blank">B45: lexico-semantics (Jack)</a>!</p>
 </div>
