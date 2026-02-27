@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 <div style="padding: 5px;">
-  <h1>Hello!</h1>
-    <p>I am a second year graduate student in the <a href="https://www.creighton.edu/medicine/departments/pharmacology-neuroscience" target="_blank" style="color:#0062b1;">Pharmacology and Neuroscience PhD program</a> at Creighton University in Omaha, Nebraska, where I work primarily at the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" target="_blank" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>, under the direction of Dr. Elizabeth Heinrichs-Graham, as part of the Institute for Human Neuroscience at Boys Town National Research Hospital.</p>
+  <h1>Upcoming Conference Presentation 📣</h1>
+    <p>Catch me present a <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">poster (B56)</a> on semantic processing in children with mild-to-severe hearing loss at the upcoming <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">Cognitive Neuroscience Society 2026 conference</a> in Vancouver, Canada on March 8th!</p>
 
-    <p>As I progress through my graduate school career, more updates will be posted here!</p>
+    <p>Three of my colleagues have also brought their amazing projects to CNS as well! Check them out at <a href="https://www.cogneurosociety.org/poster/?id=7233" target="_blank">B6: visual attention (Clare)</a>, <a href="https://www.cogneurosociety.org/poster/?id=7232" target="_blank">B40: spatial working memory (Grace)</a>, and <a href="https://www.cogneurosociety.org/poster/?id=7304" target="_blank">B45: lexico-semantics (Jack)</a>!</p>
+
+    <p>If you're interested in more what we do, please check out our lab, the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" target="_blank" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>!</p>
 </div>
 
 <hr>
 
 <div style="padding: 5px;">
-  <h1>Upcoming Conference Presentation 📣</h1>
-    <p>Catch me present a <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">poster (B56)</a> on semantic processing in children with mild-to-severe hearing loss at the upcoming <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">Cognitive Neuroscience Society 2026 conference</a> in Vancouver, Canada on March 8th!</p>
+  <h1>Hello!</h1>
+    <p>I am a second year graduate student in the <a href="https://www.creighton.edu/medicine/departments/pharmacology-neuroscience" target="_blank" style="color:#0062b1;">Pharmacology and Neuroscience PhD program</a> at Creighton University in Omaha, Nebraska, where I work primarily at the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" target="_blank" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>, under the direction of Dr. Elizabeth Heinrichs-Graham, as part of the Institute for Human Neuroscience at Boys Town National Research Hospital.</p>
 
-    <p>Three of my colleagues have also brought their amazing projects to CNS as well! Check them out at <a href="https://www.cogneurosociety.org/poster/?id=7233" target="_blank">B6: visual attention (Clare)</a>, <a href="https://www.cogneurosociety.org/poster/?id=7232" target="_blank">B40: spatial working memory (Grace)</a>, and <a href="https://www.cogneurosociety.org/poster/?id=7304" target="_blank">B45: lexico-semantics (Jack)</a>!</p>
+    <p>As I progress through my graduate school career, more updates will be posted here!</p>
 </div>
 
 <hr>
