@@ -8,8 +8,16 @@ redirect_from:
 ---
 <div style="padding: 5px;">
   <h1>Upcoming Conference Presentation 📣</h1>
+  <p>I will present the latest findings on the differences in neural dynamics serving semantic judgment in children with mild-to-severe hearing loss at the Boys Town Post-Doc Symposium and Creighton University Research Week!</p>
+
+  <p>Updated results in addition to the presented poster will be posted on here.</p>
+  <details>
+    <summary><a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1001/133656" target="_blank" style="color:#8400b0;">[Cognitive Neuroscience Society 2026 Conference]</a>, March 7-10, 2026; Expand to see a digital version of my poster ⬇️</summary>
+
+    <img src="/images/Shen_Poster_semjudge_2026-3-15.png" alt="CNS 2026 Conference Poster B56" style="float:right;width:400px;height:300px;">
+
     <p>
-    <img src="/images/CNS-2026-Digital-Badge.png" alt="CNS 2026 Conference Logo" style="float:right;width:100px;height:100px;">
+    <img src="/images/CNS-2026-Digital-Badge.png" alt="CNS 2026 Conference Logo" style="float:right;width:100px;height:100px;">    
 
     Catch me present a <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">poster (B56)</a> on semantic processing in children with mild-to-severe hearing loss at the upcoming <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">Cognitive Neuroscience Society 2026 conference</a> in Vancouver, Canada on March 8th!
     </p>
@@ -17,6 +25,9 @@ redirect_from:
     <p>Three of my colleagues have also brought their amazing projects to CNS as well! Check them out at <a href="https://www.cogneurosociety.org/poster/?id=7233" target="_blank">B6: visual attention (Clare)</a>, <a href="https://www.cogneurosociety.org/poster/?id=7232" target="_blank">B40: spatial working memory (Grace)</a>, and <a href="https://www.cogneurosociety.org/poster/?id=7304" target="_blank">B45: lexico-semantics (Jack)</a>!</p>
 
     <p>If you're interested in more what we do, please check out our lab, the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" target="_blank" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>!</p>
+  </details>
+
+
 </div>
 
 <hr>
@@ -54,8 +65,14 @@ redirect_from:
 <hr>
 
 <div style="padding: 5px;">
-  <h1>Presentations</h1>
+  <h1>Past Presentations</h1>
+
+  <details>
+    <summary>2025 Institute for Human Neuroscience Summer Symposium; social media post below ⬇️</summary>
+
     <p>I presented my very first flash talk (!) at the 2025 Institute for Human Neuroscience Summer Symposium!</p>
 
     <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The 3rd flash talk is <a href="https://twitter.com/Creighton?ref_src=twsrc%5Etfw">@Creighton</a> PhD student in the <a href="https://twitter.com/hashtag/CASILab?src=hash&amp;ref_src=twsrc%5Etfw">#CASILab</a>, Zhiying (Mike) Shen. His presentation is titled, &quot;Neural Dynamics Underlying the Development of Semantic Processing Support Language-Specific and Domain-General Cognition.&quot;<a href="https://twitter.com/hashtag/IHNSummerSymposium?src=hash&amp;ref_src=twsrc%5Etfw">#IHNSummerSymposium</a> <a href="https://twitter.com/hashtag/Neuroscience?src=hash&amp;ref_src=twsrc%5Etfw">#Neuroscience</a> <a href="https://twitter.com/hashtag/CASILab?src=hash&amp;ref_src=twsrc%5Etfw">#CASILab</a> <a href="https://t.co/i0nyNTUiyW">pic.twitter.com/i0nyNTUiyW</a></p>&mdash; Institute for Human Neuroscience (@BoysTown_IHN) <a href="https://twitter.com/BoysTown_IHN/status/1958911041435259295?ref_src=twsrc%5Etfw">August 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </details>
+
 </div>
