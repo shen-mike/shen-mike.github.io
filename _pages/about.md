@@ -8,13 +8,15 @@ redirect_from:
 ---
 <div style="padding: 5px;">
   <h1>Upcoming Conference Presentation 📣</h1>
-  <p>I will present the latest findings on the differences in neural dynamics serving semantic judgment in children with mild-to-severe hearing loss at the Boys Town Post-Doc Symposium and Creighton University Research Week!</p>
+  <p>I will present the latest findings on the differences in neural dynamics serving semantic judgment in children with mild-to-severe hearing loss at the <b>Boys Town Post-Doc Symposium</b> (March 27, 2026) and <b>Creighton University Research Week</b> (March 31, 2026)!</p>
 
   <p>Updated results in addition to the presented poster will be posted on here.</p>
   <details>
-    <summary><a href="https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1001/133656" target="_blank" style="color:#8400b0;">[Cognitive Neuroscience Society 2026 Conference]</a>, March 7-10, 2026; Expand to see a digital version of my poster ⬇️</summary>
+    <summary><a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank" style="color:#8400b0;">Cognitive Neuroscience Society 2026 Conference</a>, (March 7-10, 2026); expand to see a digital version of my poster ⬇️</summary>
 
-    <img src="/images/Shen_Poster_semjudge_2026-3-15.png" alt="CNS 2026 Conference Poster B56" style="float:right;width:400px;height:300px;">
+    <p>
+    <img src="/images/Shen_Poster_semjudge_2026-3-15.png" alt="CNS 2026 Conference Poster B56" style="float:none;width:800px;height:600px;">
+    </p>
 
     <p>
     <img src="/images/CNS-2026-Digital-Badge.png" alt="CNS 2026 Conference Logo" style="float:right;width:100px;height:100px;">    
