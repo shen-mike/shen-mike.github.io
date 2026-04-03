@@ -28,18 +28,17 @@ redirect_from:
     <summary><a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank" style="color:#8400b0;">Cognitive Neuroscience Society 2026 Conference</a>, (March 7-10, 2026); expand to see a digital version of my poster ⬇️</summary>
 
     <p>
-    <img src="/images/Shen_Poster_semjudge_2026-3-15.png" alt="CNS 2026 Conference Poster B56" style="float:none;width:800px;height:600px;">
+    <img src="/images/CNS-2026-Digital-Badge.png" alt="CNS 2026 Conference Logo" style="float:right;width:100px;height:100px;">    
+
+    My first international conference (!) at <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">CNS 2026</a> in Vancouver, Canada! Lots of cool science and tons of fun frolicking around town!
     </p>
 
     <p>
-    <img src="/images/CNS-2026-Digital-Badge.png" alt="CNS 2026 Conference Logo" style="float:right;width:100px;height:100px;">    
-
-    Catch me present a <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">poster (B56)</a> on semantic processing in children with mild-to-severe hearing loss at the upcoming <a href="https://www.cogneurosociety.org/annual-meeting/" target="_blank">Cognitive Neuroscience Society 2026 conference</a> in Vancouver, Canada on March 8th!
+    <img src="/images/Shen_Poster_semjudge_2026-3-15.png" alt="CNS 2026 Conference Poster B56" style="float:none;width:800px;height:600px;">
     </p>
 
-    <p>Three of my colleagues have also brought their amazing projects to CNS as well! Check them out at <a href="https://www.cogneurosociety.org/poster/?id=7233" target="_blank">B6: visual attention (Clare)</a>, <a href="https://www.cogneurosociety.org/poster/?id=7232" target="_blank">B40: spatial working memory (Grace)</a>, and <a href="https://www.cogneurosociety.org/poster/?id=7304" target="_blank">B45: lexico-semantics (Jack)</a>!</p>
+    <p>Read more about the abstract <a href="https://www.cogneurosociety.org/poster/?id=7245" target ="_blank">here</a>. Read more about my amazing colleagues' posters on <a href="https://www.cogneurosociety.org/poster/?id=7233" target="_blank">visual attention (B6, Clare)</a>, <a href="https://www.cogneurosociety.org/poster/?id=7232" target="_blank">spatial working memory (B40, Grace)</a>, and <a href="https://www.cogneurosociety.org/poster/?id=7304" target="_blank">lexico-semantics (B45, Jack)</a>!</p>
 
-    <p>If you're interested in more what we do, please check out our lab, the <a href="https://www.instituteforhumanneuroscience.org/casi-lab" target="_blank" style="color:#0062b1;">Cognitive and Sensory Imaging Laboratory</a>!</p>
   </details>
 
 
