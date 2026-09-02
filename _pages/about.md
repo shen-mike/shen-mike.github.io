@@ -53,7 +53,7 @@ redirect_from:
   <h1>Past Presentations</h1>
 
   <details>
-    <summary><a href="https://drive.google.com/file/d/1CS6ts98G5OSwNPoksAlVE9jX7pF3GcFH/view" target="_blank">Creighton University Research Week</a> (March 31, 2026); expand to see the fantastic photos at the event by CU social media team ⬇️</summary>
+    <summary><a href="https://drive.google.com/file/d/1CS6ts98G5OSwNPoksAlVE9jX7pF3GcFH/view" target="_blank"  style="color:#8400b0;">Creighton University Research Week</a> (March 31, 2026); expand to see the fantastic photos at the event by CU social media team ⬇️</summary>
 
     <p>I presented our latest findings on the differences in neural dynamics serving semantic judgment in children with mild-to-severe hearing loss! Thank you for stopping by with your questions and encouragements!</p>
 
