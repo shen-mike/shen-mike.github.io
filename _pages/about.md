@@ -85,7 +85,7 @@ redirect_from:
   </details>
 
   <details>
-    <summary>2025 Institute for Human Neuroscience Summer Symposium; social media post below ⬇️</summary>
+    <summary>Institute for Human Neuroscience Summer Symposium (Aug 22, 2025); social media post below ⬇️</summary>
 
     <p>I presented my very first flash talk (!) at the 2025 Institute for Human Neuroscience Summer Symposium!</p>
 
