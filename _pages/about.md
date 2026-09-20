@@ -54,7 +54,7 @@ redirect_from:
 
 
   <details>
-    <summary><a href="" target="_blank"  style="color:#8400b0;">Institute for Human Neuroscience Summer Symposium</a> (August 21, 2026); expand to see the CASI Lab post! ⬇️</summary>
+    <summary>Institute for Human Neuroscience Summer Symposium (August 21, 2026); expand to see the CASI Lab post! ⬇️</summary>
 
     <p>Second flash talk completed! Congrats to Grace for making the podium two years in a row!!</p>
 
